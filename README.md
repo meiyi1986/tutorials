@@ -9,3 +9,7 @@
 - [Bayesian Network: Basics](https://github.com/meiyi1986/tutorials/blob/master/bayesian-network-basics.ipynb)
 - [How to Build a Bayesian Network?](https://github.com/meiyi1986/tutorials/blob/master/bayesian-network-building.ipynb)
 - [Inference in Bayesian Network: Variable Elimination](https://github.com/meiyi1986/tutorials/blob/master/bayesian-network-variable-elimination.ipynb)
+
+### AI Planning and Scheduling
+
+- [Job Shop Scheduling: State Space Search](https://github.com/meiyi1986/tutorials/blob/master/job-shop-scheduling-state-space-search.ipynb)
