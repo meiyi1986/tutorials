@@ -12,4 +12,5 @@
 
 ### AI Planning and Scheduling
 
-- [Job Shop Scheduling: State Space Search](https://github.com/meiyi1986/tutorials/blob/master/job-shop-scheduling-state-space-search.ipynb)
+- [Job Shop Scheduling by AI planning: State Space Search](https://github.com/meiyi1986/tutorials/blob/master/job-shop-scheduling-state-space-search.ipynb)
+- [Dynamic Job Shop Scheduling: Dispatching Rule]()
