@@ -1,6 +1,6 @@
 # Tutorials
 
-This page provides the
+This page provides tutorials in **artificial intelligence**, **evolutionary computation** and **optimisation/operations research**, most of which are closely related to [my research](https://meiyi1986.github.io).
 
 ## Artificial Intelligence
 
