@@ -23,3 +23,4 @@ This page provides tutorials in **artificial intelligence**, **evolutionary comp
 
 - [Greedy Heuristics: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-greedy.ipynb)
 - [Branch and Bound: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-branch-bound.ipynb)
+- [Local Search]
