@@ -21,7 +21,7 @@ This page provides tutorials in **artificial intelligence**, **evolutionary comp
 
 ## Combinatorial Optimisation and Operations Research
 
+- [Branch and Bound: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-branch-bound.ipynb)
 - [Greedy Heuristics: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-greedy.ipynb)
 - [Greedy Heuristics: Traveling Salesman Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/tsp-greedy.ipynb)
-- [Branch and Bound: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-branch-bound.ipynb)
 - [Local Search]
