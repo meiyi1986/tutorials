@@ -24,4 +24,4 @@ This page provides tutorials in **artificial intelligence**, **evolutionary comp
 - [Branch and Bound: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-branch-bound.ipynb)
 - [Greedy Heuristics: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-greedy.ipynb)
 - [Greedy Heuristics: Traveling Salesman Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/tsp-greedy.ipynb)
-- [Local Search]
+- [Local Search: Basics](https://github.com/meiyi1986/tutorials/blob/master/notebooks/local-search-basics.ipynb)
