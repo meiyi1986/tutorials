@@ -25,3 +25,4 @@ This page provides tutorials in **artificial intelligence**, **evolutionary comp
 - [Greedy Heuristics: Knapsack Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/knapsack-greedy.ipynb)
 - [Greedy Heuristics: Traveling Salesman Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/tsp-greedy.ipynb)
 - [Local Search: Basics](https://github.com/meiyi1986/tutorials/blob/master/notebooks/local-search-basics.ipynb)
+- [Local Search: Traveling Salesman Problem](https://github.com/meiyi1986/tutorials/blob/master/notebooks/local-search-tsp.ipynb)
