@@ -16,6 +16,7 @@ This page provides tutorials in **artificial intelligence**, **evolutionary comp
 
 - [Job Shop Scheduling by AI planning: State Space Search](https://github.com/meiyi1986/tutorials/blob/master/notebooks/job-shop-scheduling-state-space-search.ipynb)
 - [Job Shop Scheduling by Mathematical Programming](https://github.com/meiyi1986/tutorials/blob/master/notebooks/job-shop-scheduling-mathematical-programming.ipynb)
+- [Job Shop Scheduling by Local Search](https://github.com/meiyi1986/tutorials/blob/master/notebooks/job-shop-scheduling-local-search.ipynb)
 - [Dynamic Job Shop Scheduling: Dispatching Rule](https://github.com/meiyi1986/tutorials/blob/master/notebooks/job-shop-scheduling-dispatching-rule.ipynb)
 
 
